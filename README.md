@@ -9,7 +9,7 @@ I am a second-year Robotics & AI student and software developer with a strong pa
 I enjoy exploring how algorithms learn from data and how intelligent systems can solve real-world problems. Alongside my interest in ML, I develop desktop utilities, full-stack web applications, and automation tools, focusing on efficiency, readability, and maintainable code.
 
 ### Tech Stack
-- **Languages:** Python, JavaScript, TypeScript, C, C++
+- **Languages:** Python, JavaScript, C, C++
 - **Web Development:** HTML, CSS, React, Node.js, MongoDB
 - **Machine Learning & Data:** Scikit-learn, NumPy, Pandas, Jupyter
 - **Tools & Platforms:** Git, GitHub, VS Code
